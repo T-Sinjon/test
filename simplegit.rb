@@ -1,1 +1,4 @@
-@git_dir = File.expand_path(git_dir)
+@git_dir = File.expand_path(git_dir)  
+my code
+
+
